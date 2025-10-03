@@ -2,4 +2,4 @@
 ECE444 - PRA4 - Architecture Design
 
 ## Rubric
-![ECE444 PRA4 Rubric](project/images/ECE444-PRA4-Rubric.png)
+![ECE444 PRA4 Rubric](ECE444-PRA4-Rubric.png)
